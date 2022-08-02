@@ -6,29 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".StartActivity">
 
-    <!-- Hello Page-->
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="You " />
-
-
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Lorem ipsum dolor sit amet, consectetur adpiscing elit"/>
-
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="#000"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
